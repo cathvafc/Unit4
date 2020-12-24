@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice 21", "Exercice 21\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice 22", "Exercice 22\Exercice 22.csproj", "{F51E9410-5775-47FD-9D82-114EBBBA3B11}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraInversa", "CalculadoraInversa\CalculadoraInversa.csproj", "{870AFB86-D19D-4F86-B4C9-ED8ED372197D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{F51E9410-5775-47FD-9D82-114EBBBA3B11}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F51E9410-5775-47FD-9D82-114EBBBA3B11}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F51E9410-5775-47FD-9D82-114EBBBA3B11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{870AFB86-D19D-4F86-B4C9-ED8ED372197D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{870AFB86-D19D-4F86-B4C9-ED8ED372197D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{870AFB86-D19D-4F86-B4C9-ED8ED372197D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{870AFB86-D19D-4F86-B4C9-ED8ED372197D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
